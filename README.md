@@ -30,9 +30,9 @@ _Installation at the virtual environment:_
 ```
 # Rapid guide python3 virtual environment
 python3 -m pip install --user virtualenv
-python3 -m venv env
 
 # Installation (in your project folder)
+python3 -m venv env
 source env/bin/activate
 pip install requests
 pip3 install -r requirements.txt
