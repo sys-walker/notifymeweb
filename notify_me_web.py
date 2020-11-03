@@ -35,7 +35,7 @@ if __name__ == '__main__':
         URL_WEB = "https://downforeveryoneorjustme.com/" + (TAIL)
         if URL_WEB == "https://downforeveryoneorjustme.com/":
             raise Exception("No website to check status")
-        print("checking very 10 sec " + URL_WEB)
+        print("checking every 10 sec " + URL_WEB)
         OFFLINE = True
         ONLINE = True
         ISSUE = 5
