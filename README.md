@@ -48,7 +48,7 @@ $ python3 notify_me_web.py
 ```
 ### Common issues
 
-- wrong permissions
+- **geckodriver** wrong permissions
 
 ```
 Traceback (most recent call last):
