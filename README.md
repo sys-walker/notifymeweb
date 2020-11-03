@@ -28,7 +28,7 @@ _You can install it at your python **or** at your python [virtual environment](h
 
 _Installation at the virtual environment:_
 ```
-# Rapid guide python3 virtual environtment
+# Rapid guide python3 virtual environment
 python3 -m pip install --user virtualenv
 python3 -m venv env
 
